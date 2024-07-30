@@ -7,5 +7,5 @@ A Flask based chatbot using Google's Gemini API for text based conversations wit
 - google-generativeai
 - pyttsx3
 
-<img width="1440" alt="Screenshot 2024-07-29 at 12 05 55 AM" src="https://github.com/user-attachments/assets/20018765-5c90-476d-a86d-5856deb161d3">
+![Screenshot 2024-07-31 013730](https://github.com/user-attachments/assets/4d6fade9-9d0e-4d51-ae57-82fc38a449df)
 
