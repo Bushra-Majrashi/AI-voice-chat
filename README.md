@@ -3,6 +3,8 @@ A Flask based chatbot using Google's Gemini API for text based conversations wit
 
 ## Requirements
 - Python 3.x
+
+  download these libraries:
 - Flask
 - google-generativeai
 - pyttsx3
